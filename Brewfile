@@ -1,0 +1,8 @@
+brew "zsh-autosuggestions"
+brew "zsh-syntax-highlighting"
+brew "fzf"
+brew "zoxide"
+brew "bat"
+brew "eza"
+brew "ripgrep"
+brew "starship"
